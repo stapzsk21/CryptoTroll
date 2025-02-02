@@ -1,0 +1,2 @@
+# CryptoTroll
+Agent CryptoTrol
